@@ -1,0 +1,14 @@
+.menu  {
+    padding-left: 50px;
+    position: relative;
+    width: 100%;
+    height: inherit;
+    /* background-color: red; */
+}
+
+.menu> div {
+    float: left;
+    position: relative;
+}
+
+ul {list-style-type: none; margin: 0px; left: 0px;padding: 0px;}

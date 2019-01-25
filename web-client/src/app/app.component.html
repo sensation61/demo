@@ -1,0 +1,59 @@
+<div style="text-align:center">
+  <h1>
+    <!-- Welcome to {{ title }}! -->
+  </h1>
+</div>
+
+<div class="menu">
+  <div class="panel panel-default">
+    <div class="panel-heading"></div>
+    <div class="panel-body">
+      <ul class="list-group-sm">
+        <li class="list-group-item">Aktif Key Listesi</li>
+        <!-- class="list-group-item (item.state == 'true' ? active : disabled)" -->
+        <li class="list-group-item" *ngFor="let item of activeKeys; let i = index">
+          name: {{item.name}} state: {{item.state}}
+        </li>
+      </ul>
+    </div>
+  </div>
+  <div class="panel panel-default" style="margin-left:10px;">
+    <div class="panel-heading"></div>
+    <div class="panel-body">
+      <div class="form-row" style="width:400px;">
+        <div class="col">
+          <select #activeKey class="custom-select">
+            <option *ngFor="let item of activeKeys; let i = index">{{item.name}}</option>
+          </select>
+        </div>
+        <div class="col">
+          <button class="btn btn-outline-primary btn-sm" type="button" (click)="showKeyLog(activeKey.value)">
+            Log Göster
+          </button>
+        </div>
+        <div class="col">
+          <button class="btn btn-outline-primary btn-sm" type="button" (click)="ngActive(activeKey.value)">
+            Aktif Yap
+          </button>
+        </div>
+        <div class="col">
+          <button class="btn btn-outline-primary btn-sm" type="button" (click)="ngPassive(activeKey.value)">
+            Pasif Yap
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="menu">
+
+  <div class="form-group">
+    <label for="comment">Logs:</label>
+    <ul class="list-group">
+      <li *ngFor="let item of keyLogs; let i = index">
+        name: {{item.name}} description: {{item.description}}
+      </li>
+    </ul>
+  </div>
+</div>

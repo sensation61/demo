@@ -1,0 +1,14 @@
+C:\Users\sensation\source\repos\demo\demo-service\bin\Debug\netcoreapp2.1\demo-service.deps.json
+C:\Users\sensation\source\repos\demo\demo-service\bin\Debug\netcoreapp2.1\demo-service.runtimeconfig.json
+C:\Users\sensation\source\repos\demo\demo-service\bin\Debug\netcoreapp2.1\demo-service.runtimeconfig.dev.json
+C:\Users\sensation\source\repos\demo\demo-service\bin\Debug\netcoreapp2.1\demo-service.dll
+C:\Users\sensation\source\repos\demo\demo-service\bin\Debug\netcoreapp2.1\demo-service.pdb
+C:\Users\sensation\source\repos\demo\demo-service\obj\Debug\netcoreapp2.1\demo-service.csprojAssemblyReference.cache
+C:\Users\sensation\source\repos\demo\demo-service\obj\Debug\netcoreapp2.1\demo-service.csproj.CoreCompileInputs.cache
+C:\Users\sensation\source\repos\demo\demo-service\obj\Debug\netcoreapp2.1\demo-service.RazorAssemblyInfo.cache
+C:\Users\sensation\source\repos\demo\demo-service\obj\Debug\netcoreapp2.1\demo-service.RazorAssemblyInfo.cs
+C:\Users\sensation\source\repos\demo\demo-service\obj\Debug\netcoreapp2.1\demo-service.AssemblyInfoInputs.cache
+C:\Users\sensation\source\repos\demo\demo-service\obj\Debug\netcoreapp2.1\demo-service.AssemblyInfo.cs
+C:\Users\sensation\source\repos\demo\demo-service\obj\Debug\netcoreapp2.1\demo-service.RazorTargetAssemblyInfo.cache
+C:\Users\sensation\source\repos\demo\demo-service\obj\Debug\netcoreapp2.1\demo-service.dll
+C:\Users\sensation\source\repos\demo\demo-service\obj\Debug\netcoreapp2.1\demo-service.pdb

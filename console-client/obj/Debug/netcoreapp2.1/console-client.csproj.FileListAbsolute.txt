@@ -1,0 +1,11 @@
+C:\Users\sensation\source\repos\demo\console-client\bin\Debug\netcoreapp2.1\console-client.deps.json
+C:\Users\sensation\source\repos\demo\console-client\bin\Debug\netcoreapp2.1\console-client.runtimeconfig.json
+C:\Users\sensation\source\repos\demo\console-client\bin\Debug\netcoreapp2.1\console-client.runtimeconfig.dev.json
+C:\Users\sensation\source\repos\demo\console-client\bin\Debug\netcoreapp2.1\console-client.dll
+C:\Users\sensation\source\repos\demo\console-client\bin\Debug\netcoreapp2.1\console-client.pdb
+C:\Users\sensation\source\repos\demo\console-client\obj\Debug\netcoreapp2.1\console-client.csprojAssemblyReference.cache
+C:\Users\sensation\source\repos\demo\console-client\obj\Debug\netcoreapp2.1\console-client.csproj.CoreCompileInputs.cache
+C:\Users\sensation\source\repos\demo\console-client\obj\Debug\netcoreapp2.1\console-client.AssemblyInfoInputs.cache
+C:\Users\sensation\source\repos\demo\console-client\obj\Debug\netcoreapp2.1\console-client.AssemblyInfo.cs
+C:\Users\sensation\source\repos\demo\console-client\obj\Debug\netcoreapp2.1\console-client.dll
+C:\Users\sensation\source\repos\demo\console-client\obj\Debug\netcoreapp2.1\console-client.pdb
